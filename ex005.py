@@ -1,0 +1,5 @@
+print('VAMOS DESCOBRIR QUAL SUA DATA DE NASCIMENTO')
+dia = input ('DIA - ')
+mes = input ('MÊS - ')
+ano = input ('ANO - ')
+print ('Você nasceu no dia',dia, 'do',mes, 'de',ano, '. Correto?')
