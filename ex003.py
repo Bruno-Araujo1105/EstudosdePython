@@ -1,4 +1,4 @@
-print("Some números")
-Número = int(input("Coloque o primeiro número -  "))
-Número2 = int(input("Coloque o segundo número -  "))
-print(f"A soma dos números é: {Número+Número2}")
+print ('Some números')
+número = int(input('Coloque o primeiro número -  '))
+número2 = int(input('Coloque o segundo número -  '))
+print (f'A soma dos números é: {Número+Número2}'')
