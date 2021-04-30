@@ -1,1 +1,1 @@
-print("Olá Mundo XD")
+print ('Olá Mundo XD')
